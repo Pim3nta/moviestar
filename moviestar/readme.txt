@@ -28,6 +28,6 @@ Version 2.0
 
 Futuras Versions {Pesquisando Features}
 {
+    Corrigir bug do login em auth.php
     Mudar icone
-    Terminar Pagina de contato com iframe
 }
